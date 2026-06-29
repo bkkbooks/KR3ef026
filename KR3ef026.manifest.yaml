@@ -1,0 +1,377 @@
+canonical_identifier: bkk:krp/KR3ef026/v1
+canonical_location: https://kanripo.org/bkk/KR3ef026/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 尚論篇
+  identifiers:
+    krp: KR3ef026
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef026.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3ef026_001.yaml, hash: 'sha256:51e21abf39433c3b82bf09b029a6434863b439be7666d3ee310e0fd02c25a9bb'}
+  - {seq: 2, filename: KR3ef026_002.yaml, hash: 'sha256:1f1a34a2290bca0b564da70d16726f3a80c757b592403681009886e19636752f'}
+  - {seq: 3, filename: KR3ef026_003.yaml, hash: 'sha256:6651851796f9723aabb50c45c01c02d24f04262787d5f3bcf3fa67e7576a01ee'}
+  - {seq: 4, filename: KR3ef026_004.yaml, hash: 'sha256:37e0f4e5c18735fe17ba7952e59a961c1db8372d8ebb5cdbf342613e53fca151'}
+  - {seq: 5, filename: KR3ef026_005.yaml, hash: 'sha256:ea979dcfc49eb6ecf81e42989ba0cb66b18b0802024d15831772f625f1eec189'}
+  - {seq: 6, filename: KR3ef026_006.yaml, hash: 'sha256:1242b977b6830cfe15b5b9f8e3b7bc61c18e62fbb991d4281c43cbf35ee988c0'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ef026_001.markers.yaml, hash: 'sha256:69fa5558fe7b56d1a4f1c3d441d690dc048bac261da30c5727d0323c55c6849c'}
+  - {seq: 2, role: markers, filename: assets/KR3ef026_002.markers.yaml, hash: 'sha256:736be02df5d156fa78796644cbe1989f1056c0ebcff0ead3afacc1aa8de83e0c'}
+  - {seq: 3, role: markers, filename: assets/KR3ef026_003.markers.yaml, hash: 'sha256:369fbb7451dbf8b6e8c411ff120aa4edbb491bebf2d69a3c689ce4c7699cb8ed'}
+  - {seq: 4, role: markers, filename: assets/KR3ef026_004.markers.yaml, hash: 'sha256:160caa32e4b437c459d9349b7f8e818b4d743fe318128ad8b20c82cf1d9d89f9'}
+  - {seq: 5, role: markers, filename: assets/KR3ef026_005.markers.yaml, hash: 'sha256:5f1e7033c8ba595b7a293f379eab0fcef6902f8f998136a17a1efa600ab26654'}
+  - {seq: 6, role: markers, filename: assets/KR3ef026_006.markers.yaml, hash: 'sha256:c654a2510e3c38dc19600bdc655067e00577fcbb7990ec91faa9e124d189917a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ef026_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 786
+  label: 尚論篇自序
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ef026_jc_NaN-d3.h1s1
+    span:
+    - body
+    - 0
+    - 9702
+  label: 尚論篇卷首
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ef026_jc_NaN-d3d2
+    span:
+    - body
+    - 5
+    - 1047
+  label: 尚論張仲景傷寒論大意
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef026_jc_NaN-d3d3
+    span:
+    - body
+    - 1047
+    - 1531
+  label: 尚論仲景傷寒論先辨叔和編次之失
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef026_jc_NaN-d3d4
+    span:
+    - body
+    - 1531
+    - 1959
+  label: 尚論仲景傷寒論先辨林億成無己校注之失
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef026_jc_NaN-d3d5
+    span:
+    - body
+    - 1959
+    - 6523
+  label: 駁正王叔和序例
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef026_jc_NaN-d3d6
+    span:
+    - body
+    - 6523
+    - 7593
+  label: 論春溫大意並辨叔和四變之妄
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef026_jc_NaN-d3d7
+    span:
+    - body
+    - 7593
+    - 9702
+  label: 詳論溫疫以破大惑
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef026_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 31130
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ef026_jc_001-d4d4
+    span:
+    - body
+    - 17
+    - 793
+  label: 論太陽經傷寒證治大意
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef026_jc_001-d4d5
+    span:
+    - body
+    - 793
+    - 11820
+  label: 太陽經上篇
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef026_jc_001-d4d6
+    span:
+    - body
+    - 11820
+    - 23396
+  label: 太陽經中篇
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef026_jc_001-d4d7
+    span:
+    - body
+    - 23396
+    - 31130
+  label: 太陽經下篇
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef026_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 15559
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ef026_jc_002-d5d4
+    span:
+    - body
+    - 18
+    - 481
+  label: 尚論陽明經證治大意
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef026_jc_002-d5d5
+    span:
+    - body
+    - 481
+    - 6783
+  label: 陽明經上篇
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef026_jc_002-d5d6
+    span:
+    - body
+    - 6783
+    - 10846
+  label: 陽明經中篇
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef026_jc_002-d5d7
+    span:
+    - body
+    - 10846
+    - 15559
+  label: 陽明經下篇
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef026_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 7484
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ef026_jc_003-d6d4
+    span:
+    - body
+    - 17
+    - 7484
+  label: 尚論少陽經證治大意
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef026_jc_003-d6.d4d114
+    span:
+    - body
+    - 3207
+    - 4777
+  label: 合病
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ef026_jc_003-d6.d4d115
+    span:
+    - body
+    - 4777
+    - 5811
+  label: 並病
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ef026_jc_003-d6.d4d116
+    span:
+    - body
+    - 5811
+    - 6425
+  label: 壞病
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ef026_jc_003-d6.d4d117
+    span:
+    - body
+    - 6425
+    - 7484
+  label: 痰病
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ef026_jc_004-d7.h1s1
+    span:
+    - body
+    - 0
+    - 15300
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ef026_jc_004-d7d4
+    span:
+    - body
+    - 20
+    - 166
+  label: 尚論太陰經證治大意
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ef026_jc_004-d7d5
+    span:
+    - body
+    - 166
+    - 1367
+  label: 太陰經全篇法九條
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ef026_jc_004-d7d6
+    span:
+    - body
+    - 1367
+    - 1607
+  label: 尚論少陰經證治大意
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ef026_jc_004-d7d7
+    span:
+    - body
+    - 1607
+    - 4281
+  label: 少陰經前篇
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ef026_jc_004-d7d8
+    span:
+    - body
+    - 4281
+    - 6767
+  label: 少陰經後篇
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ef026_jc_004-d7d9
+    span:
+    - body
+    - 6767
+    - 7037
+  label: 尚論厥陰經證治大意
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ef026_jc_004-d7d10
+    span:
+    - body
+    - 7037
+    - 15300
+  label: 厥陰經全篇法五十五
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ef026_jc_004-d7.d10d196
+    span:
+    - body
+    - 12518
+    - 13822
+  label: 過經不解
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ef026_jc_004-d7.d10d197
+    span:
+    - body
+    - 13822
+    - 15300
+  label: 差後勞復陰陽易病
+  type: section
+  level: 3
+hash: sha256:8f1878661bc22dc49f36e5fcb36c43c6950f0c712d959257f192edf79a8cd683
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
