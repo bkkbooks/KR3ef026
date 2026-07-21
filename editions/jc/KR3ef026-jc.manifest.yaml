@@ -17,14 +17,14 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 1, filename: KR3ef026_001-jc.yaml, hash: 'sha256:0c600c8474247fd1f9be9e64e48dbb9fca63ff739d5509adea253749911c7f09'}
+  - {seq: 1, filename: KR3ef026_001-jc.yaml, hash: 'sha256:cb478c526b9f10a758edbf8cecedcd9acd3c1b23ae2c1a5737fe461bc212f315'}
   - {seq: 2, filename: KR3ef026_002-jc.yaml, hash: 'sha256:e5eadf8d51b227242ffee15b692c502282aae98b8df2cf8fc58561abc65cf9ce'}
   - {seq: 3, filename: KR3ef026_003-jc.yaml, hash: 'sha256:f9917d5d18ede5397ce1417def28c16addcf2a088f62c41bbb0b8113678d805b'}
   - {seq: 4, filename: KR3ef026_004-jc.yaml, hash: 'sha256:5b90505e63811b1fb5cfe5658b06c33adc51e06a493726ea9e78efa76642f18e'}
   - {seq: 5, filename: KR3ef026_005-jc.yaml, hash: 'sha256:1edad7cd814367cc90c0004c46f2e0e9122eda92563feb78bcfad4485b2be63d'}
   - {seq: 6, filename: KR3ef026_006-jc.yaml, hash: 'sha256:16be896336317c68e519559dbb881c98b355bca291ec2805806487e7c2894204'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ef026_001-jc.markers.yaml, hash: 'sha256:403696958aac2c9f41fe5841d6fb4e0690234056492790e52ee524057cbc83df'}
+  - {seq: 1, role: markers, filename: assets/KR3ef026_001-jc.markers.yaml, hash: 'sha256:0bb77bfd190a56bfbff6b67777d90142530d91ea9478ccc1a21f108dbb7889d1'}
   - {seq: 2, role: markers, filename: assets/KR3ef026_002-jc.markers.yaml, hash: 'sha256:c5fe084145e6d0f1c08ff271dbf7bc709209896d427be4268d7c0e346dee54db'}
   - {seq: 3, role: markers, filename: assets/KR3ef026_003-jc.markers.yaml, hash: 'sha256:c6e170428a69fc5dab7e04d29d321699eccf92d7d2c04a8edbbc822b36f92b09'}
   - {seq: 4, role: markers, filename: assets/KR3ef026_004-jc.markers.yaml, hash: 'sha256:6181c2d964f7f217e2f121a4d5f6c9d88e5bd0ebf7d338face89cba7c0e590ac'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3ef026_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 786
   label: 尚論篇自序
@@ -371,4 +371,4 @@ table_of_contents:
   label: 差後勞復陰陽易病
   type: section
   level: 3
-hash: sha256:15f082b9deef56723cc59fa49a6c2f72983f75012aacd5f28bc1b404bb5b87a2
+hash: sha256:4d96dda7ed709136670d21d046e417f6b8be46c934c94faf138ac22596eb51fe
